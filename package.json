@@ -1,0 +1,24 @@
+{
+  "name": "edemkv",
+  "version": "1.0.0",
+  "description": "github page",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://edemkv@github.com/edemkv/edemkv.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/edemkv/edemkv.github.io/issues"
+  },
+  "homepage": "https://github.com/edemkv/edemkv.github.io",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-bower": "0.0.10",
+    "gulp-concat": "^2.6.0"
+  }
+}
